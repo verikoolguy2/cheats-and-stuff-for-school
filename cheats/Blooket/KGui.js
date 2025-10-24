@@ -3883,6 +3883,6 @@ javascript:(() => {
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked, join the Discord server for updates\nhttps://discord.gg/jHjGrrdXP6\n(The cheat will still run after this alert)")
+        iframe.contentWindow.alert("This Menu Has Been Modified By Verikoolguy.\nUse Dima Client For The Menu To Work At My Main Profile.\nThe Repo Is At https://github.com/verikoolguy/letter2 \n(message: hi)")
     }
 })();
